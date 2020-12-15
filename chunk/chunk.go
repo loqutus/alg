@@ -15,7 +15,3 @@ func chunk(arr []int, chunkSize int) [][]int {
 	}
 	return res
 }
-
-func main() {
-	chunk()
-}
