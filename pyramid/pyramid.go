@@ -19,7 +19,3 @@ func pyramid(n int) {
 		fmt.Println(level)
 	}
 }
-
-func main() {
-	pyramid(5)
-}
