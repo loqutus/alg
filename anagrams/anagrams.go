@@ -36,5 +36,5 @@ func isAnagram(stringA, stringB string) bool {
 	return true
 }
 
-aws_access_key_id="AKIAJYSWRFSAI4E7RVOA"
-aws_secret_access_key="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"
+aws_access_key_id="AKIAJYSWRFSAI9E7RVOA"
+aws_secret_access_key="vo+cBBMyU+MVwy1ONafRlkuxxcXYmSUTXQh5wlyx"
